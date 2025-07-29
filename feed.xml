@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>博客</title>
+    <link href="https://hwd-2020.github.io/blog/feed.xml" rel="self" />
+    <link href="https://hwd-2020.github.io/blog" />
+    <updated>2025-07-29T17:49:34+08:00</updated>
+    <author>
+        <name>Hwd</name>
+    </author>
+    <id>https://hwd-2020.github.io/blog</id>
+
+    <entry>
+        <title>丛林女王</title>
+        <author>
+            <name>Hwd</name>
+        </author>
+        <link href="https://hwd-2020.github.io/blog/cong-lin-nu-wang.html"/>
+        <id>https://hwd-2020.github.io/blog/cong-lin-nu-wang.html</id>
+
+        <updated>2025-07-29T17:49:34+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Bing 必应壁纸 2025年7月29日 雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library) 图像分辨率：3840 x 2160 图像大小：3.44 MB
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img decoding="async" loading="lazy" src="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg" data-is-external-image="true"></p>
+<p>Bing 必应壁纸 2025年7月29日</p>
+<p>雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)</p>
+<p> </p>
+<h1>原图</h1>
+<p><strong>图像分辨率：</strong>3840 x 2160</p>
+<p><strong>图像大小：</strong>3.44 MB</p>
+<p><img decoding="async" loading="lazy" src="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg" data-is-external-image="true"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
